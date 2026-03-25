@@ -122,9 +122,9 @@ values:
 
 🔹 Add your best projects here (VERY IMPORTANT for recruiters)
 
-* 🔥 Project Name – Short description
-* 🔥 Project Name – Short description
-* 🔥 Project Name – Short description
+* 🔹 Bodhi-Mitra – Real-time anonymous mental health support platform connecting students with psychologists instantly.
+* 🔹 Project Name – Short description
+* 🔹 Project Name – Short description
 
 ---
 
