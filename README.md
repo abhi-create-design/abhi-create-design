@@ -121,7 +121,7 @@ values:
 ## 🚀 Featured Projects
 
 * 🔹 Bodhi-Mitra – Real-time anonymous mental health support platform connecting students with psychologists instantly.
-* 🔹 Project Name – Short description
+* 🔹 Auto-Examination System – Web-based platform automating exam scheduling, seating allocation, invigilation, and attendance management.
 * 🔹 Project Name – Short description
 
 ---
