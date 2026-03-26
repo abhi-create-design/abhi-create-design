@@ -15,6 +15,15 @@
 </p>
 
 ---
+<p align="center">
+## 👀 Profile Views
+</p>
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=abhi-create-design"/>
+</p>
+
+---
 
 ## 🧑‍💻 About Me
 
@@ -58,13 +67,13 @@ values:
 ### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php" />
 </p>
 
 ### ⚙️ Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,angular" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask" />
 </p>
 
 ### ☁️ Cloud & DB
@@ -126,12 +135,5 @@ values:
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=abhi-create-design"/>
-</p>
-
----
 
 <h3 align="center">✨ Keep Building. Stay Consistent. 🚀</h3>
