@@ -15,11 +15,11 @@
 </p>
 
 ---
-## 👀 Profile Views
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=abhi-create-design"/>
-</p>
+<div align="center">
+  
+[![Profile Views](https://api.visitorbadge.io/api/VisitorHit?user=abhi-create-design&repo=abhi-create-design&countColor=%237B1E7A&label=profile-views)](https://github.com/abhi-create-design)
+</div>
 
 ---
 
