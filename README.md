@@ -15,9 +15,7 @@
 </p>
 
 ---
-<p align="center">
 ## 👀 Profile Views
-</p>
 
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=abhi-create-design"/>
